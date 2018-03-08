@@ -18,7 +18,7 @@ public class Test1 {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Administrator\\Downloads\\chromedriver_win32\\chromedriver.exe");
 		ChromeOptions options = new ChromeOptions();
 		options.setBinary("C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe");
-		driver=new ChromeDriver();
+		driver=new ChromeDriver(options);
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(100, TimeUnit.SECONDS);
 		driver.get("https://s3-us-west-2.amazonaws.com/dotnetdata/elb-dns.txt");
