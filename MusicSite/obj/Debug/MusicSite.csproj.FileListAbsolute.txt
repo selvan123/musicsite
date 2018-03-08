@@ -1,0 +1,29 @@
+D:\MyProject\MusicSite\MusicSite\obj\Debug\MusicSite.csprojResolveAssemblyReference.cache
+D:\MyProject\MusicSite\MusicSite\bin\MusicSite.dll
+D:\MyProject\MusicSite\MusicSite\bin\MusicSite.pdb
+D:\MyProject\MusicSite\MusicSite\bin\BusinessLogicLayer.dll
+D:\MyProject\MusicSite\MusicSite\bin\DataBaseLayer.dll
+D:\MyProject\MusicSite\MusicSite\bin\BusinessLogicLayer.pdb
+D:\MyProject\MusicSite\MusicSite\bin\DataBaseLayer.pdb
+D:\MyProject\MusicSite\MusicSite\obj\Debug\MusicSite.dll
+D:\MyProject\MusicSite\MusicSite\obj\Debug\MusicSite.pdb
+D:\Users\sjamgade\Downloads\music-webapp-master\MusicSite\bin\MusicSite.dll
+D:\Users\sjamgade\Downloads\music-webapp-master\MusicSite\bin\MusicSite.pdb
+D:\Users\sjamgade\Downloads\music-webapp-master\MusicSite\bin\BusinessLogicLayer.dll
+D:\Users\sjamgade\Downloads\music-webapp-master\MusicSite\bin\DataBaseLayer.dll
+D:\Users\sjamgade\Downloads\music-webapp-master\MusicSite\bin\BusinessLogicLayer.pdb
+D:\Users\sjamgade\Downloads\music-webapp-master\MusicSite\bin\DataBaseLayer.pdb
+D:\Users\sjamgade\Downloads\music-webapp-master\MusicSite\obj\Debug\MusicSite.csprojResolveAssemblyReference.cache
+D:\Users\sjamgade\Downloads\music-webapp-master\MusicSite\obj\Debug\MusicSite.dll
+D:\Users\sjamgade\Downloads\music-webapp-master\MusicSite\obj\Debug\MusicSite.pdb
+D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\MusicSite\bin\MusicSite.dll.config
+D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\MusicSite\bin\MusicSite.dll
+D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\MusicSite\bin\MusicSite.pdb
+D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\MusicSite\bin\BusinessLogicLayer.dll
+D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\MusicSite\bin\DataBaseLayer.dll
+D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\MusicSite\bin\BusinessLogicLayer.pdb
+D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\MusicSite\bin\DataBaseLayer.pdb
+D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\MusicSite\obj\Debug\MusicSite.csprojResolveAssemblyReference.cache
+D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\MusicSite\obj\Debug\MusicSite.csproj.CoreCompileInputs.cache
+D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\MusicSite\obj\Debug\MusicSite.dll
+D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\MusicSite\obj\Debug\MusicSite.pdb

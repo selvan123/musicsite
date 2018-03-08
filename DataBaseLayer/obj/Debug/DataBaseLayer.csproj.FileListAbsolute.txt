@@ -1,0 +1,29 @@
+D:\git\allblack\DataBaseLayer\bin\Debug\DataBaseLayer.dll
+D:\git\allblack\DataBaseLayer\bin\Debug\DataBaseLayer.pdb
+D:\git\allblack\DataBaseLayer\obj\Debug\DataBaseLayer.dll
+D:\git\allblack\DataBaseLayer\obj\Debug\DataBaseLayer.pdb
+D:\git\projectgeek\allblack\DataBaseLayer\bin\Debug\DataBaseLayer.dll
+D:\git\projectgeek\allblack\DataBaseLayer\bin\Debug\DataBaseLayer.pdb
+D:\git\projectgeek\allblack\DataBaseLayer\obj\Debug\DataBaseLayer.dll
+D:\git\projectgeek\allblack\DataBaseLayer\obj\Debug\DataBaseLayer.pdb
+D:\web-dev\allblack\DataBaseLayer\bin\Debug\DataBaseLayer.dll
+D:\web-dev\allblack\DataBaseLayer\bin\Debug\DataBaseLayer.pdb
+D:\web-dev\allblack\DataBaseLayer\obj\Debug\DataBaseLayer.dll
+D:\web-dev\allblack\DataBaseLayer\obj\Debug\DataBaseLayer.pdb
+D:\MusicSite\DataBaseLayer\bin\Debug\DataBaseLayer.dll
+D:\MusicSite\DataBaseLayer\bin\Debug\DataBaseLayer.pdb
+D:\MusicSite\DataBaseLayer\obj\Debug\DataBaseLayer.dll
+D:\MusicSite\DataBaseLayer\obj\Debug\DataBaseLayer.pdb
+D:\MyProject\MusicSite\DataBaseLayer\bin\Debug\DataBaseLayer.dll
+D:\MyProject\MusicSite\DataBaseLayer\bin\Debug\DataBaseLayer.pdb
+D:\MyProject\MusicSite\DataBaseLayer\obj\Debug\DataBaseLayer.dll
+D:\MyProject\MusicSite\DataBaseLayer\obj\Debug\DataBaseLayer.pdb
+D:\Users\sjamgade\Downloads\music-webapp-master\DataBaseLayer\bin\Debug\DataBaseLayer.dll
+D:\Users\sjamgade\Downloads\music-webapp-master\DataBaseLayer\bin\Debug\DataBaseLayer.pdb
+D:\Users\sjamgade\Downloads\music-webapp-master\DataBaseLayer\obj\Debug\DataBaseLayer.dll
+D:\Users\sjamgade\Downloads\music-webapp-master\DataBaseLayer\obj\Debug\DataBaseLayer.pdb
+D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\DataBaseLayer\bin\Debug\DataBaseLayer.dll
+D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\DataBaseLayer\bin\Debug\DataBaseLayer.pdb
+D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\DataBaseLayer\obj\Debug\DataBaseLayer.csproj.CoreCompileInputs.cache
+D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\DataBaseLayer\obj\Debug\DataBaseLayer.dll
+D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\DataBaseLayer\obj\Debug\DataBaseLayer.pdb

@@ -1,0 +1,50 @@
+D:\git\allblack\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\git\allblack\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\git\allblack\BusinessLogicLayer\bin\Debug\DataBaseLayer.dll
+D:\git\allblack\BusinessLogicLayer\bin\Debug\DataBaseLayer.pdb
+D:\git\allblack\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\git\allblack\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\git\allblack\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\git\projectgeek\allblack\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\git\projectgeek\allblack\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\git\projectgeek\allblack\BusinessLogicLayer\bin\Debug\DataBaseLayer.dll
+D:\git\projectgeek\allblack\BusinessLogicLayer\bin\Debug\DataBaseLayer.pdb
+D:\git\projectgeek\allblack\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\git\projectgeek\allblack\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\git\projectgeek\allblack\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\web-dev\allblack\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\web-dev\allblack\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\web-dev\allblack\BusinessLogicLayer\bin\Debug\DataBaseLayer.dll
+D:\web-dev\allblack\BusinessLogicLayer\bin\Debug\DataBaseLayer.pdb
+D:\web-dev\allblack\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\web-dev\allblack\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\web-dev\allblack\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\MusicSite\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\MusicSite\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\MusicSite\BusinessLogicLayer\bin\Debug\DataBaseLayer.dll
+D:\MusicSite\BusinessLogicLayer\bin\Debug\DataBaseLayer.pdb
+D:\MusicSite\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\MusicSite\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\MusicSite\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\MyProject\MusicSite\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\MyProject\MusicSite\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\MyProject\MusicSite\BusinessLogicLayer\bin\Debug\DataBaseLayer.dll
+D:\MyProject\MusicSite\BusinessLogicLayer\bin\Debug\DataBaseLayer.pdb
+D:\MyProject\MusicSite\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\MyProject\MusicSite\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\MyProject\MusicSite\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\Users\sjamgade\Downloads\music-webapp-master\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Users\sjamgade\Downloads\music-webapp-master\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Users\sjamgade\Downloads\music-webapp-master\BusinessLogicLayer\bin\Debug\DataBaseLayer.dll
+D:\Users\sjamgade\Downloads\music-webapp-master\BusinessLogicLayer\bin\Debug\DataBaseLayer.pdb
+D:\Users\sjamgade\Downloads\music-webapp-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\Users\sjamgade\Downloads\music-webapp-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\Users\sjamgade\Downloads\music-webapp-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\BusinessLogicLayer\bin\Debug\DataBaseLayer.dll
+D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\BusinessLogicLayer\bin\Debug\DataBaseLayer.pdb
+D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\Users\sels\Documents\My Received Files\music-webapp-master\music-webapp-master\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
