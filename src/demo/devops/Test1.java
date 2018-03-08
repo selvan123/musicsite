@@ -13,11 +13,11 @@ public class Test1 {
 	public static WebDriver driver;
 	@BeforeSuite
 	public static void setup(){
-		System.setProperty("webdriver.chrome.driver", "D:\\Users\\maudas\\Downloads\\chromedriver_win32 (4)\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\Program Files (x86)\\chromedriver_win32\\chromedriver.exe");
 		driver=new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(40, TimeUnit.SECONDS);
-		driver.get("https://s3-us-west-2.amazonaws.com/java-demo-bucket/elb-dns.txt");
+		driver.get("https://s3-us-west-2.amazonaws.com/dotnetdata/elb-dns.txt");
 		String url=driver.findElement(By.xpath("//body")).getText();
 		driver.get(url);
 	}
