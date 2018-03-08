@@ -14,8 +14,9 @@ public class Test1 {
 	public static WebDriver driver;
 	@BeforeSuite
 	public static void setup(){
-		System.setProperty("webdriver.gecko.driver", "C:\\Users\\Administrator\\Downloads\\geckodriver-v0.19.1-win64\\geckodriver.exe");
-		driver=new FirefoxDriver();
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Administrator\\Downloads\\chromedriver_win32\\chromedriver.exe");
+		
+		driver=new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(100, TimeUnit.SECONDS);
 		driver.get("https://s3-us-west-2.amazonaws.com/dotnetdata/elb-dns.txt");
