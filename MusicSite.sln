@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.12
+VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicSite", "MusicSite\MusicSite.csproj", "{6E98CB21-1E60-42FF-9948-8884F0E57375}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogicLayer", "BusinessLogicLayer\BusinessLogicLayer.csproj", "{A2EA34E5-23B6-4D7F-8573-E6678516336A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseLayer", "DataBaseLayer\DataBaseLayer.csproj", "{9FDFA0BF-665A-40C2-B27D-7026CB4E80AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicSiteTest", "MusicSiteTest\MusicSiteTest.csproj", "{8F9A4A4E-4C0B-4DDC-89D8-63CC02195800}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{9FDFA0BF-665A-40C2-B27D-7026CB4E80AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FDFA0BF-665A-40C2-B27D-7026CB4E80AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FDFA0BF-665A-40C2-B27D-7026CB4E80AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F9A4A4E-4C0B-4DDC-89D8-63CC02195800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F9A4A4E-4C0B-4DDC-89D8-63CC02195800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F9A4A4E-4C0B-4DDC-89D8-63CC02195800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F9A4A4E-4C0B-4DDC-89D8-63CC02195800}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
