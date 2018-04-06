@@ -48,7 +48,7 @@
                                 <li><a href="#">Hindi</a></li>
                                 <li><a href="#">English</a></li>
                                 <li><a href="#">Punjabi</a></li>
-                                <li><a href="#">Spanish</a></li>
+                              
                             </ul>
                         </li>
                          <li><a href="#" data-toggle="modal" data-target="#contact">Contact</a></li>                        
