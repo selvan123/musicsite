@@ -12,7 +12,7 @@
                 <div class="banner-text text-center">
                     <a href="all_songs.aspx"><h1>!! Easiest Way to download a song with 1 click !!</h1>
                     </a>
-                    <h3> <strong>Selvan's Tamil Music Box</strong> gives you instant access to millions of songs – from old 
+                    <h3> <strong>Selvan's Music Box</strong> gives you instant access to millions of songs – from old 
                     favorites to the latest hits. Just hit play to stream anything you like.</h3>
                    </div>
             </div>
