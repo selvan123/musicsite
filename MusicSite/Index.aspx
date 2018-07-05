@@ -10,7 +10,7 @@
         <div class="container">
             <div class="col-md-10 col-md-offset-1">
                 <div class="banner-text text-center">
-                    <a href="all_songs.aspx"><h1>!! Easiest Way to download a song with 1 click !!</h1>
+                    <a href="all_songs.aspx"><h1>!!! Easiest Way to download a song with 1 click !!</h1>
                     </a>
                     <h3> <strong>DevOps Music Box</strong> gives you instant access to millions of songs – from old 
                     favorites to the latest hits. Just hit play to stream anything you like.</h3>
