@@ -16,7 +16,7 @@ steps:
 - task: NuGetCommand@2
   displayName: 'NuGet restore'
   inputs:
-    restoreSolution: '$/MusicSite.sln'
+    restoreSolution: 'MusicSite.sln'
 
 - task: SonarSource.sonarqube.15B84CA1-B62F-4A2A-A403-89B77A063157.SonarQubeScannerMsBuildBegin@3
   displayName: 'Prepare the SonarQube analysis'
@@ -29,7 +29,7 @@ steps:
 - task: VSBuild@1
   displayName: 'Build solution'
   inputs:
-    solution: '$/MusicSite.sln'
+    solution: 'MusicSite.sln'
     msbuildArgs: '/p:DeployOnBuild=true /p:WebPublishMethod=Package /p:PackageAsSingleFile=true /p:SkipInvalidConfigurations=true  /p:PackageLocation="$(build.artifactstagingdirectory)\\"              '
     platform: '$(BuildPlatform)'
     configuration: '$(BuildConfiguration)'
