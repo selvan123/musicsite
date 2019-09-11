@@ -22,7 +22,7 @@ steps:
   displayName: 'Prepare the SonarQube analysis'
   inputs:
     projectKey: selvan123
-    projectName: MvcAffableBean
+    projectName: MusicSite
     connectedServiceName: 'SonarQube Cloud'
     cmdLineArgs: '/o:selvan123-github'
 
@@ -38,7 +38,7 @@ steps:
   displayName: 'NUnit Test Execution'
   inputs:
     testAssemblyVer2: |
-     **\$(BuildConfiguration)\*unittest*.dll
+     **\$(BuildConfiguration)\*test*.dll
      !**\obj\**
     codeCoverageEnabled: true
     diagnosticsEnabled: True
