@@ -10,7 +10,7 @@
         <div class="container">
             <div class="col-md-10 col-md-offset-1">
                 <div class="banner-text text-center">
-                    <a href="all_songs.aspx"><h1>!!!! Easiest Way to download a song with 1 click !! Ashwani </h1>
+                    <a href="all_songs.aspx"><h1>!!!! Easiest Way to download a song with 1 click !! Ashwani1 </h1>
                     </a>
                     <h3> <strong>Shruti's Music Box!</strong> MUSIC SHOP gives you instant access to millions of songs – from old 
                     favorites to the latest hits. Just hit play to stream anything you like.</h3>
