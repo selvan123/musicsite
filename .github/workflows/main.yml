@@ -19,7 +19,7 @@ jobs:
       
   sonarCloudTrigger:
     name: SonarCloud Trigger
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
     - uses: actions/checkout@master
     - name: SonarCloud Scan
