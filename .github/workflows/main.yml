@@ -16,6 +16,7 @@ jobs:
       uses: warrenbuckley/Setup-MSBuild@v1
     - name: Build with MSBuild
       run: msbuild  MusicSite.sln -p:Configuration=Release
+      
   sonarCloudTrigger:
     name: SonarCloud Trigger
     runs-on: ubuntu-latest
